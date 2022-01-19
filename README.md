@@ -2,7 +2,7 @@
 - 👀 I’m interested in software
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on console application
-- 📫 How to reach me ...6200657320
+- 📫 How to reach me ...ankurpvt7@gmail.com
 
 <!---
 ankursaurabh77/ankursaurabh77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
